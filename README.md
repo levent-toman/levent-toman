@@ -1,0 +1,5 @@
+- 👋 Hi, I’m levent toman
+- 👀 I’m interested in data analysis, data visualisation, machine learning and deep learning 
+- 🌱 I’m currently learning data analysis and visualisation
+- 💻 I'm open to any job and project offers
+- 📫 How to reach me https://www.linkedin.com/in/levent-toman/
