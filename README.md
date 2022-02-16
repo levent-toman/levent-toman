@@ -4,3 +4,4 @@
 - 🌱 I’m currently learning RBD SQL,Tableu, machine learning , deep learning
 - 💻 I'm open to any job and project offers
 - 📫 How to reach me https://www.linkedin.com/in/levent-toman/
+- 🛠you can check my assigments-and-projects repo to see my recent works
