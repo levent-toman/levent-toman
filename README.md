@@ -1,5 +1,6 @@
 - 👋 Hi, I’m levent toman
-- 👀 I’m interested in data analysis, data visualisation, machine learning and deep learning 
-- 🌱 I’m currently learning data analysis and visualisation
+- 👀 I’m interested in statistics, data analysis, data visualisation, machine learning, deep learning
+- ⌨️ I have experience in statistics, data analysis, data visualisation w libraries like numpy pandas matplotlip seaborn
+- 🌱 I’m currently learning RBD SQL,Tableu, machine learning , deep learning
 - 💻 I'm open to any job and project offers
 - 📫 How to reach me https://www.linkedin.com/in/levent-toman/
